@@ -3,12 +3,17 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Shubham Jain
+- **CCID:** `Jain8
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+https://www.geeksforgeeks.org/constraints-in-android/
+https://findnerd.com/list/view/HideShow-a-View-with-slide-updown-animation-in-Android/2537/?utm_source=chatgpt.com
+"How to use setVisibilty in Android Studio" - ChatGPT
+"How to design a button in Android Studio in XML in Java" - ChatGPT
+https://www.geeksforgeeks.org/how-to-dynamically-add-elements-to-a-listview-in-android/
 
 ## Verbal Collaboration
 
